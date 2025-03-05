@@ -8,4 +8,4 @@ Soy un estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colom
 - Estructuras de datos y algoritmos  
 
 📫 Contáctame: 
-jsuarezco@unal.edu.co
+- jsuarezco@unal.edu.co
